@@ -1,0 +1,7 @@
+Essa foi a questão que eu mais gostei. Embora não tenha conseguido achar uma solução muito boa a tempo.
+Tentei deixar o código limpo e prático, usando classes, funções e lógica.
+
+
+Eu não me preocupei com variações no arquivo de texto, como linhas em branco ou faltando informações. Apenas usei o recurso do arquivo de texto para vocês poderem testar mais facilmente!
+Só seguir o exemplo:
+10x10x10

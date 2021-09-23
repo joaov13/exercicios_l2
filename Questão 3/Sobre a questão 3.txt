@@ -1,0 +1,8 @@
+Como eu não possuo muitos conhecimento de CSS, JS e HTML, eu tentei usar um pouco de tudo que eu sei.
+
+Mudei as cores nos estilos no CSS.
+Alterei as imagens.
+Adicionei textos seguindo o tema de pipoca.
+Coloquei um pouco de JS pedindo o nome da pessoa ao acessar o site. (testa com numeros ;D)
+Alterei os icones usando FontAwesome
+O linkedin agora é meu!
